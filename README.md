@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RiddhiJangid
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on RL Python projects
+- 👋 Hi, I’m Riddhi Jangid
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me -via email
 
 <!---
